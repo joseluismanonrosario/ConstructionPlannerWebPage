@@ -37,3 +37,7 @@ Including a subpage with profiles of your team members, employees, or partners h
 ### **10. Contact Form**
 Don’t forget to have a contact form on your website for potential clients to get in touch with you. Place visible links to your contact form on each subpage of your website. Many companies place it into a floating banner or at the top of the page. Contact forms should also be linked in your call to action.
 
+## **Section examples**
+
+**About Us Section**
+![About Us Section](./designs/PracticaHTMLSections.png)
